@@ -3,8 +3,8 @@ const Web3 = require('web3');
 const { interface, bytecode} = require('./compile');
 
 const provider = new HDWalletProvider(
-    'huge aerobic bounce belt wink bronze nominee level clean worth outdoor approve',
-    'https://rinkeby.infura.io/v3/d0227bb35bac4fb9a1eeb5aa2eadecda'
+    'MNEMONIC CODE',
+  'RINKYBY INFURA URL'
 
 );
 
